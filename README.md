@@ -1,4 +1,4 @@
-H5P Editor Interactive Video
+Curriki Editor Interactive Video
 ==========
 
 Makes it easier to create interactive videos.
